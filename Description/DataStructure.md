@@ -9,8 +9,21 @@
     
     html - str
     
-     
+    soup - bs4.BeautifulSoup
+    
+    stock_set - dict
+    
+    sec - int
+    
+    tl_value - str
+    
+    tm_value - str
+    
+    rip_col - str
+    
   - ### 함수
+  
+  
   
   - ### 라이브러리
    
