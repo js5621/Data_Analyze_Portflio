@@ -6,6 +6,7 @@
 + ## Stock_analyze.py
   - ### 변수
     driver - selenium.webdriver.chrome.webdriver.WebDriver
+    
     html - str
     
      
