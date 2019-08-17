@@ -5,6 +5,8 @@
 
 + ## Stock_analyze.py
   - ### 변수
+    driver class # selenium.webdriver.chrome.webdriver.WebDriver
+    
      
   - ### 함수
   
@@ -20,7 +22,7 @@
 
 
 
-
+`
 
 + ## Stock_Db.sql
 
