@@ -5,6 +5,8 @@
 
 + ## Stock_analyze.py
   - ### 변수
+     ㅈㄴㅇㅈㅇㅈ
+     
 
 
 
