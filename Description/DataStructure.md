@@ -42,8 +42,14 @@
 
 + ## Stock_Db.sql
   - ### 테이블 구조
+  
+    WriteDate - varchar(70) not null primary key : 게시글 작성 날짜
+    
+    Title - varchar(70) : 게시글 제목
+    
+    contents - varchar(3000) : 게시글 내용
  
-
+    ripple - varchar(4000) : 게시글에 대한 댓글 모음
 
 
 + ## word_analyze.py
