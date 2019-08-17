@@ -11,3 +11,7 @@
 
 
 + ## Stock_Db.sql
+
+
+
++ ## word_analyze.py
